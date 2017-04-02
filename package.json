@@ -2,7 +2,8 @@
     "name": "hmmx-studio-project",
     "version": "0.1.0",
     "dependencies": {
-        "montage": "~0.15.0",
+        "montage": "montagejs/master",
+        "hmmx": "montagestudio/hmmx",
         "digit": "~0.5.0"
     },
     "devDependencies": {
